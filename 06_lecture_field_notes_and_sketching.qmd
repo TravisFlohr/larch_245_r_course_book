@@ -8,7 +8,7 @@
 quarto::quarto_render("/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedLibraries-ThePennsylvaniaStateUniversity/T-Ecology_and_Plants_II-2026_Fall - Documents/larch_245_r_course_book/slides/slides_lecture_field_notes_and_sketching.qmd")
 
 # Define paths (using your exact filenames)
-source_path <- "/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedLibraries-ThePennsylvaniaStateUniversity/T-Ecology_and_Plants_II-2026_Fall - Documents/larch_245_r_course_book/_book/slides/slides_lecture_field_notes_and_sketching.html"
+source_path <- "/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedLibraries-ThePennsylvaniaStateUniversity/T-Ecology_and_Plants_II-2026_Fall - Documents/larch_245_r_course_book/slides/slides_lecture_field_notes_and_sketching.html"
 dest_dir <- "/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedLibraries-ThePennsylvaniaStateUniversity/T-Ecology_and_Plants_II-2026_Fall - Documents/larch_245_r_course_book/docs/"
 dest_path <- file.path(dest_dir, "slides_lecture_field_notes_and_sketching.html")
 
@@ -19,7 +19,6 @@ if (!dir.exists(dest_dir)) {
 
 # Copy with OVERWRITE enabled (critical for your requirement)
 file.copy(source_path, dest_path, overwrite = TRUE)
-
 ```
 
 <style>
@@ -31,8 +30,9 @@ file.copy(source_path, dest_path, overwrite = TRUE)
 </style>
 
 <div>
+
 ```{=html}
-<iframe class="slide-deck" src="../slides/slides_lecture_field_notes_and_sketching.html"></iframe>
+<iframe class="slide-deck" src="slides_lecture_field_notes_and_sketching.html"></iframe>
 ```
 </div>
 
