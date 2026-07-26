@@ -1,0 +1,3 @@
+[submodule "teaching_boilerplate"]
+	path = teaching_boilerplate
+	url = git@github.com:TravisFlohr/teaching_boilerplate.git
