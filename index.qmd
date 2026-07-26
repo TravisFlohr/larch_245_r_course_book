@@ -25,9 +25,9 @@ Classroom: 113 Chemical and Biomedical Engineering Building
 #| message: false
 
 # call and run script for class room building location
-# source("boilerplate/00_classroom_map.R")
+source("boilerplate/00_classroom_map.R")
 
-# map_classroom
+map_classroom
 ```
 
 <br> 

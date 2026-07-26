@@ -1,13 +1,4 @@
-
-::: callout-important
-## To Do - delete this call out once finished
-
--   [x] Move the remainder of the old word doc syllabus guiding principals to this document.
--   [ ] Check and fix all highlighted text.
--   [ ] Work on formatting of the graphic design based on css.
--   [ ] Work on embedding the citations and in author text to bibliography.
--   [ ] Add photos and drawings to break-up all the text.
-:::
+# Core Guiding Concepts for Plant Knowledge
 
 As most practicing landscape architects will attest, getting to know plants requires personal dedication to researching, detailing, implementing, and managing plants, soils, and their landscape contexts through time – in practice. While this studio presents course material via regular lectures and plant walks, background learning is necessary through **independent research**. I expect and encourage you to take the initiative to develop your plant knowledge rigorously. You are becoming a Landscape Architect; **plants are your thing**. Get into a habit of regularly using resources available in the SALA library and the many good online sources. The citations below provide a solid base of information. Note that none are required purchases; however, many students have purchased them as they have proven invaluable in their landscape architecture careers.
 
@@ -74,11 +65,12 @@ Remember, if we encounter derogatory common names in the plants we're considerin
 ## Planterly, Cultural, and Professional Diversity {#sec-dei}
 There's a growing body of scholarship that modern students are learning less and less about plants and plant communities, which are the foundation of sustainable human societies and a big part of what we envision when we think of the beauty of the natural world (Wandersee & Schussler, 1999). We hope this course plays a role in ensuring that the next generation of landscape architects is **nature-literate** and that our profession helps **reverse broader societal trends** toward **plant blindness** and **biodiversity collapse** (Brzuszek et al., 2011; Griswold, 1994; Sturtevant, 1927; Weller, 2014).
 
-[Put a figure, image, or video here on biodiversity collapse.]{style="background-color: yellow;"}
+<figure>
+    <iframe width=100% height="400" src="https://www.youtube.com/embed/cVsI1M_zFMs?si=WqIvN6oYKmXOQbpb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <figcaption>Doug Tallamy 2024: "WHAT'S THE RUSH to plant natives?" Source: Bringing Back the Natives Garden Tour</figcaption>
+</figure>
 
 The gardenesque, culinary, and medicinal uses of plants have underpinned many distinct cultures and traditions across diverse societies, not just amongst privileged classes of European background. We hope this course provides an opportunity to explore the close links between horticulture and human culture, particularly in underappreciated black and brown communities. George Washington Carver (c. 1864-1943) was one of the most prominent botanists of the early 20th century, having discovered hundreds of uses for native and introduced plants across the U.S. David Augustus Williston (1868-1962) was an esteemed landscape architect and horticulturist on many important U.S. campus design projects. More recently, many minority-led design firms have been pushing the boundaries of planting design and methods in contemporary landscape architecture. We think of the outstanding work on the Highline plantings by Isabel Castilla of James Corner Field Operations; the many culturally attuned and inclusive landscapes by Walter Hood and company; José Almiñana's work with Andropogon on Phipps Conservatory's Center for Sustainability, and the award-winning projects of New York-based garden designer, Wambui Ippolito. The list could go on. Throughout the semester, let's look for opportunities to embrace human and professional diversity associated with planting design and methods.
-
-[Put a figure or image here of people above.]{style="background-color: yellow;"}
 
 Often, landscape architects describe an invasive species as if it were the source country’s fault; this approach can be hurtful until the conversation becomes more thoughtful and acknowledges that species invasions occur in both directions. For example, Black locust, a native tree species in the northeast U.S., is quite invasive in parts of Europe (I could cite many others). We should scrutinize botanical terminology with negative connotations to support our College's diversity, equity, and inclusion (DEI) policies. Let's begin by embracing Penn State Arboretum's position on the issue:
 
@@ -89,13 +81,7 @@ Often, landscape architects describe an invasive species as if it were the sourc
 ## Additional Resources
 
 ### Botanical and Horticultural Term References
-[Upload and update links in this section]{style="background-color: yellow;"}
-
-I will provide additional botanical field references in PDF form at the following link: https://tflohr.com/ecology-and-plants-ii/.  
-
-- Leaf and Tree Forms, Patterns, and Parts
-- External Form of a Woody Twig
-- Glossary of Botanical and Horticultural Terms
+As guides for choosing the appropriate words and descriptions, reference these three PDF files: i) [Leaf and Tree Forms, Patterns, and Parts](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/tlf159_psu_edu/IQAa7JH7mr8JQpvwg7tDPaeGAbpV98qAqbbuPNxLcxkM8Cw?e=Ur0Gle), ii) [External Form of a Woody Twig](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/tlf159_psu_edu/IQAGeqmlnpC3TIe3E_eicyJwAc32GdumM6zRFlFVqJaTwlg?e=7gUojA), and iii) [Glossary of Botanical and Horticultural Terms](https://pennstateoffice365-my.sharepoint.com/:b:/g/personal/tlf159_psu_edu/IQDj0zvnIyzgSZfNDT_dNQjhAbp9mK0nlNNQ6RBMcINSXLc?e=f7V2Yb).
 
 ::: {.callout-tip}
 ## Hint
