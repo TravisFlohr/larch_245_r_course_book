@@ -9,7 +9,7 @@ quarto::quarto_render("/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedL
 
 # Define paths (using your exact filenames)
 source_path <- "/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedLibraries-ThePennsylvaniaStateUniversity/T-Ecology_and_Plants_II-2026_Fall - Documents/larch_245_r_course_book/_book/slides/slides_lecture_field_notes_and_sketching.html"
-dest_dir <- "/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedLibraries-ThePennsylvaniaStateUniversity/T-Ecology_and_Plants_II-2026_Fall - Documents/larch_245_r_course_book/docs/slides/"
+dest_dir <- "/Users/travis_flohr/Library/CloudStorage/OneDrive-SharedLibraries-ThePennsylvaniaStateUniversity/T-Ecology_and_Plants_II-2026_Fall - Documents/larch_245_r_course_book/docs/"
 dest_path <- file.path(dest_dir, "slides_lecture_field_notes_and_sketching.html")
 
 # Create destination directory if missing (with recursive handling)
