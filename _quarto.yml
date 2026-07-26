@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: docs
+  resources: 
+    -slides/**
+  pre-render: 
+  - bash setup_submodules.sh
+
+book:
+  title: "Larch 245: Ecology and Plants II (Fall 2026)"
+  author: "Travis Flohr, Ph.D."
+  date: "5/22/2026"
+  chapters:
+    - index.qmd
+    - 01_core_plant_concepts.qmd
+    - 02_schedule.qmd
+    - 03_assignment_statement_plant_walk.qmd
+    - 04_assignment_statement_quiz.qmd
+    - 05_assignment_statement_plant_palette.qmd
+    - 06_lecture_field_notes_and_sketching.qmd
+  sidebar:
+    title: Larch 245 Course Content
+    search: true
+    collapse-level: 2
+
+number-sections: true
+crossref:
+  chapters: true
+
+bibliography: references.bib
+
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt

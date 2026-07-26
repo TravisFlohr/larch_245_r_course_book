@@ -1,0 +1,98 @@
+---
+title: "Field notes and botanical sketching"
+subtitle: "Listening > observing > sensing/touching > sketching > notating > questioning = learning"
+author: "Travis Flohr, Ph.D."
+date: last-modified
+date-format: dddd MMM D, YYYY
+title-slide-attributes:
+  # data-background-image: 
+  data-background-size: contain
+  data-background-opacity: "0.5"
+format: 
+  revealjs:
+    # note: embed-resources is needed when moving the html file/presentation from computer to computer
+    embed-resources: true
+    theme: simple
+    width: 1600
+    height: 900
+    css: geo4eco_revealjs_presentation.css
+    transition: none
+    slide-number: c/t
+    logo: images/geo4eco_logo_3_3inch.png
+    # note: the chalkboard only works when embed-resources = false. Otherwise comment out when set to true, especially when sharing the presentation to a different computer. 
+    # chalkboard: 
+    #  theme: whiteboard
+    #  boardmarker-width: 5
+    #  buttons: true
+    slide-tone: false
+    code-fold: true
+    code-tools: true
+    echo: false
+
+output-file: "slides_lecture_field_notes_and_sketching.html"
+---
+
+## Field notes
+::: {style="text-align: right;"}
+![Previous Larch 245 Student sketchbook page. Source: Larch 245 student.](/images/lecture_field_notes_01.png){.nostretch fig-align="right" width="500" fig-alt="Student field notebook sketchbook: Kentucky coffee tree (bipinnately compound leaf sketch + growth notes) and persimmon tree (leaf + fruit sketch with notes)."}
+:::
+
+## Notes tip 1
+![Sample sketchbook entry for the children's garden plant walk. Source: Larch 245 student.](/images/lecture_field_notes_02.png){fig-alt="Children's garden field notes, 2029-10-30: Kentucky coffee tree (bipinnate leaf sketch + notes) and persimmon (leaf/fruit sketch + notes), with the following text called out in red, Always begin each session with the location and date."}
+
+## Notes tip 2
+![Sample sketchbook entry for the children's garden plant walk. Source: Larch 245 student.](/images/lecture_field_notes_02.png){fig-alt="Children's garden field notes, 2029-10-30: Kentucky coffee tree (bipinnate leaf sketch + notes) and persimmon (leaf/fruit sketch + notes), with the following text called out in red, Always begin each session with the location and date."}
+
+## Notes tip 3
+![Example of good basic notes with thumbnail sketches. Source: Larch 245 student.](/images/lecture_field_notes_03.png){fig-alt="Photo of an open notebook filled with handwritten field notes about plant identification, including entries for balsam fir, speckled alder, yellow birch, and winter berry. The pages include bullet points and small sketches of leaves, bark, seeds, and plant form. A boxed caption on the left says, Good basic field notes."}
+
+## Notes tip 4
+![Example of good basic notes with thumbnail sketches. Source: Larch 245 student.](/images/lecture_field_notes_04.png){fig-alt="Open notebook with handwritten field notes on red maple and hackberry, including small thumbnail sketches of leaves and branching. A text box on the right says the notes are well done and that the little thumbnails are an excellent addition when there isn’t much time for sketching."}
+
+## Notes tip 5
+![Example of good basic notes with excellent thumbnail sketches. Source: Larch 245 student.](/images/lecture_field_notes_05.png){fig-alt="Page of handwritten field notes with detailed sketches for littleleaf linden and American beech. A large text box on the right says the notes and sketches are excellent and suggests the student likely returned later to add the thumbnail drawings after the plant walks."}
+
+## Sketchbook critique comparison
+::: {.columns}
+
+::: {.column width="50%"}
+![Example critique 1. Source: Larch 245 student.](/images/lecture_field_notes_06a.png){fig-alt="Handwritten field notes titled “Nodding Onion — Allium cernuum,” listing traits, habitat, bloom colors, growing conditions, and wildlife value, with a small sketch of the flower on the right."}
+:::
+
+::: {.column width="50%"}
+![Example critique 2. Source: Larch 245 student.](/images/lecture_field_notes_06b.png){fig-alt="Faint handwritten page titled “Field Trip 2” with a numbered list of plants and brief notes, including spicebush, switch grass, Norway spruce, moosewood, and white oak."}
+:::
+
+:::
+
+## Botanical sketching
+::: {style="text-align: right;"}
+![Previous Larch 245 Student sketch page. Source: Larch 245 student.](/images/lecture_field_notes_07.png){.nostretch fig-align="right" width="2000" fig-alt="Open sketchbook page with pencil field notes and drawings labeled “Molten lava flowering crabapple,” including close-up blossom sketches and a small tree sketch with notes on flower size, weeping form, and slightly rough bark."}
+:::
+
+## Sketching tip 1
+![Leaf and student leaf sketch. Source: Larch 245 student.](/images/lecture_field_notes_08.png){fig-alt="Photo showing a simple pencil outline sketch of a leaf next to the real green leaf used as reference, with a caption reading Basic leaf form sketch."}
+
+## Sketching tip 2
+![Tree and plant forms. Source: My Taison.](/images/lecture_field_notes_09.png){fig-alt="Page showing simple pencil sketches of tree shapes in winter and in leaf, labeled without foliage and with foliage, with a caption reading Basic tree form sketches."}
+
+## Sketching tip 3
+![Detailed sycamore seed pod study, both inside and out. Source: Kathryn Chorney.](/images/lecture_field_notes_10.png){fig-alt="Open sketchbook spread with detailed pencil drawings of sycamore seed pods hanging from twigs, including close-up studies of the round seed balls, stems, and individual seeds, with a caption reading Detailed study of Sycamore seed pods."}
+
+## Sketching tip 4
+![Student sample sketches. Source: Larch 245 student.](/images/lecture_field_notes_11.png){fig-alt="examples of student botanical sketchbook pages: at left, a detailed sketch of northern sea oats with minimal notes; at right, a later page with a buckeye leaf drawing and many labeled observations. Large captions explain that the first sketch is strong but needs more annotation, while the second shows improved fieldwork with more notes."}
+
+## Sketching tip 5
+![Student sample sketches. Source: Larch 245 student.](/images/lecture_field_notes_12.png){fig-alt="Handwritten botanical sketch page labeled Japanese zelkova (Zelkova serrata) with simple leaf and bark drawings annotated with features such as serrated edges, acuminate tip, oblique leaf base, and peeling bark. A text box on the right says the sketch is not as strong as the previous student’s but is still good and has decent annotations."}
+
+## Sketching tip 6
+![Student sample sketches. Source: Larch 245 student.](/images/lecture_field_notes_13.png){fig-alt="Side-by-side botanical sketchbook pages showing detailed studies of a Japanese katsura tree branch and a wayfaring tree, with labeled drawings of leaves, twig, shrub form, and fruit. Text boxes praise the strong branch study and note the wide range of sketch subjects, from whole plant form to leaf and fruit details."}
+
+## Sketching tip 7
+![Student sample sketch. Source: Larch 245 student.](/images/lecture_field_notes_14.png){fig-alt="Open sketchbook spread with pencil drawings of a European horse chestnut, including the tree’s overall form, a large compound leaf, and a spiny fruit or nut, plus a caption noting that the range of sketch subjects is good but more annotations would be helpful."}
+
+## Sketching tip 8
+![Student sample sketch. Source: Larch 245 student.](/images/lecture_field_notes_15.png){fig-alt="Open sketchbook with colored botanical studies of Kentucky wisteria and Kentucky yellowwood, showing purple flowers, green compound leaves, and hanging seed pods, alongside a caption noting that color is encouraged and can strengthen portfolios."}
+
+## Final thoughts
+![Artist's curiosity and inspiration. Sources: Lara Call; Creative Cove.](/images/lecture_field_notes_16.png){fig-alt="Slide with the heading “Express your curiosity!” above three examples of botanical sketchbook pages filled with detailed plant studies, annotations, and some color, encouraging observation and exploratory drawing."}

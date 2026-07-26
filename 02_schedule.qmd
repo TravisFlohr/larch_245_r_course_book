@@ -1,0 +1,10 @@
+# Course Schedule {#sec-course_schedule}
+
+All relevant course dates and critical milestones or submissions are outlined in the calendar below. 
+
+**Legend**
+L - Lecture, PS - Plant ID Walk and Sketching, I - Introduction, S - Submission.
+
+```{=html}
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&title=Larch%20245%3A%20Ecology%20and%20Plants%20II&src=ZmUwYTg5ZDkwZTg3NDJkNGFmZTg1MjVkYTM4NWI1OWYxNTE3OWE2OWEzM2ExZmI2YWQwODk1MzI0MWIxNTdlM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233f51b5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
+```

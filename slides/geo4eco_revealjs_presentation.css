@@ -1,0 +1,78 @@
+/* Presentation settings */
+.reveal .slide-logo {
+  height: 75px !important;
+  width: 75px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+  position: relative;
+  z-index: 2 !important;
+}
+
+:root {
+  --r-link-color: #688fa9;
+  --r-link-color-hover: #c04129;
+}
+
+/* Title slide settings */
+.title {
+  font-size: 80px !important;
+  color: #c04129 !important;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 45px;
+  font-weight: bold;
+  color: #384e5c;
+}
+
+/* Font colors */
+.orangetxt {
+  color: #c04129;
+  font-weight: bold;
+}
+
+.blacktxt {
+  color: black;
+}
+
+.whitetxt {
+  color: white;
+}
+
+.dbluetxt {
+  color: #384e5c;
+}
+
+.mbluetxt {
+  color: #688fa9;
+}
+
+.lbluetxt {
+  color: #a6ceec;
+}
+
+/* Backgrounds */
+.greybackground_small{
+  width: 1550px;
+  height: 500px;
+  padding: 20px;
+  background: lightGrey;
+  border-radius: 6px;
+}
+
+.greybackground_large{
+  width: 1550px;
+  height: 600px;
+  padding: 20px;
+  background: lightGrey;
+  border-radius: 6px;
+}
+
+/* Footer settings */
+.footer{
+  background-color: #FFFFFF;
+  max-width: 100%
+  position: relative !important;
+  z-index: 1 !important;
+} 
