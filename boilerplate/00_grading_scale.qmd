@@ -1,0 +1,15 @@
+Grades will be based on the quality, accuracy, completeness, and timeliness of your work; the strength of your progress; and your consistent, productive engagement, both individually and during group activities. If you are concerned about where you stand during the semester, please talk with me. @tbl-grade_scale outlines the overall grading rubric to be used in this course; additional rubrics are provided in the problem statements. Note, this course will follow standard mathmatical rounding, e.g., a 92.5 will be rounded to a 93; however, a 92.1 will not be rounded.
+
+| Qualitative Level Achieved.                  | Letter Grade | % Range |
+|:---------------------------------------------|:------------:|:-------:|
+|Excellent, inspired, brilliant quality, highly accurate, fully complete, faultless.| A | 93-100 | 
+|Between excellent and very good, quite inspired, complete, nearly faultless.| A- | 90-92.9 |
+|Very good; shows some inspiration or is special in some way but is not brilliant and/or faultless.| B+| 87-89.9 |
+| Good, solid, and complete, but with no particular inspiration and/or special qualities.| B | 83-86.9 |
+|Adequate; a few notable weaknesses and/or gaps.| B- | 80-82.9 |
+|Basics are present but have a series of notable weaknesses and/or gaps. |C+ | 77-79.9 |
+|Not all the basics present; substantial errors; consistently weak and/or uninspired.| C | 70-76.9 |
+| Barely acceptable; major gaps, weaknesses, and/or elements missing.| D | 60-69.9 |
+|Unacceptable; missed the point; substantially incomplete.|	F | <60 |
+
+: General course grading rubric and scale. {#tbl-grade_scale}

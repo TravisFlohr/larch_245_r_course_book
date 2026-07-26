@@ -2,5 +2,5 @@
 
 <!-- 01_core_plant_concepts.qmd -->
 
-{{< include teaching_boilerplate/01_core_plant_concepts.qmd >}}
+{{< include boilerplate/01_core_plant_concepts.qmd >}}
 

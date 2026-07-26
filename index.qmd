@@ -25,9 +25,9 @@ Classroom: 113 Chemical and Biomedical Engineering Building
 #| message: false
 
 # call and run script for class room building location
-source("teaching_boilerplate/00_classroom_map.R")
+# source("boilerplate/00_classroom_map.R")
 
-map_classroom
+# map_classroom
 ```
 
 <br> 
@@ -161,18 +161,18 @@ Option 1: Plant Database (5 points) – enter 25 plants into a shared spreadshee
 ### Grading Rubric and Scale
 <!-- 00_grading_scale.qmd -->
 
-{{< include teaching_boilerplate/00_grading_scale.qmd >}}
+{{< include boilerplate/00_grading_scale.qmd >}}
 
 ## Course Policies
 
 ### AI/Generative Technology Policy
 <!-- 00_ai_no_policy.qmd -->
 
-{{< include teaching_boilerplate/00_ai_no_policy.qmd >}}
+{{< include boilerplate/00_ai_no_policy.qmd >}}
 
 <!-- 00_policies_resources.qmd -->
 
-{{< include teaching_boilerplate/00_policies_resources.qmd >}}
+{{< include boilerplate/00_policies_resources.qmd >}}
 
 # References
 American Society of Landscape Architecture. (2022). Landscape Architects Urge Greater Action on Biodiversity Crisis. News. https://www.asla.org/NewsReleaseDetails.aspx?id=62097
