@@ -1,3 +1,4 @@
+# Field Notes and Botanical Sketching Lecture
 
 ```{r}
 #| warning: false

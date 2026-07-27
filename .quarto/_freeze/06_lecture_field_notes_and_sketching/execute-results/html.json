@@ -1,8 +1,8 @@
 {
-  "hash": "fd42f85c0dd95817cfa162d0cd44688c",
+  "hash": "90de181e0bf1dc245554132facb92ab3",
   "result": {
     "engine": "knitr",
-    "markdown": "\n\n::: {.cell}\n\n:::\n\n\n\n\n::: {.cell}\n\n:::\n\n\n<style>\n.slide-deck {\n    border: 3px solid #dee2e6;\n    width: 100%;\n    height: 475px;\n}\n</style>\n\n<div>\n\n```{=html}\n<iframe class=\"slide-deck\" src=\"slides_lecture_field_notes_and_sketching.html\"></iframe>\n```\n</div>\n\n",
+    "markdown": "# Field Notes and Botanical Sketching Lecture\n\n\n::: {.cell}\n\n:::\n\n\n<style>\n.slide-deck {\n    border: 3px solid #dee2e6;\n    width: 100%;\n    height: 475px;\n}\n</style>\n\n<div>\n\n```{=html}\n<iframe class=\"slide-deck\" src=\"slides_lecture_field_notes_and_sketching.html\"></iframe>\n```\n</div>\n\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
