@@ -56,7 +56,7 @@ We have tried to keep course costs to a minimum. Feel free to leverage your exis
 | Pencil Sharpener                                | $2.00  |
 | ***Total Costs***                               | ***$52.00*** |
 
-: General course grading rubric and scale. {#tbl-course_costs}
+: Estimated course costs. {#tbl-course_costs}
 
 ** Disclaimer. Prices are as accurate as those provided in the summer of Published in `{r} current_year`.
 
