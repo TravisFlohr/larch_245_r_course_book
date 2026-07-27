@@ -1,4 +1,3 @@
-# Core Guiding Concepts for Plant Knowledge
 
 <!-- 01_core_plant_concepts.qmd -->
 
