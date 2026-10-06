@@ -47,13 +47,12 @@ map_classroom <- leaflet(df_buildings,
                         width = 1000) |>
   
   #basetiles
-  addTiles(group = "Positron (default)") |>
-  addProviderTiles(providers$CartoDB.Positron, group = "Positron (default)") |>
+  addTiles(group = "ESRI Street Map (default)") |>
+  addProviderTiles(providers$Esri.WorldStreetMap, group = "ESRI Street Map (default)") |>
   setView(lng= -77.8646, lat = 40.801197, zoom = 17) |>
   addResetMapButton() |>
 
   addProviderTiles(providers$Esri.WorldImagery, group = "ESRI World Imagery") |> 
-  addProviderTiles(providers$Esri.WorldStreetMap, group = "ESRI Street Map") |> 
 
   addMarkers(
     lng = ~lng, 
@@ -63,7 +62,7 @@ map_classroom <- leaflet(df_buildings,
 
 # layer controls
   addLayersControl(
-    baseGroups = c("Positron (default)", "ESRI World Imagery", "ESRI Street Map"),
+    baseGroups = c("ESRI Street Map (default)", "ESRI World Imagery"),
     options = layersControlOptions(collapsed = TRUE)
   )
 # print map
