@@ -115,8 +115,8 @@ make_plant_map <- function(dat) {
   }
 
   leaflet(pts, width = "100%", height = 450) |>
-    addTiles(group = "Positron (default)") |>
-    addProviderTiles(providers$CartoDB.Positron, group = "Positron (default)") |>
+    addTiles(group = "ESRI Street Map (default)") |>
+    addProviderTiles(providers$providers$Esri.WorldStreetMap, group = "ESRI Street Map (default)") |>
     setView(
       lng = mean(pts$longitude, na.rm = TRUE),
       lat = mean(pts$latitude, na.rm = TRUE),
@@ -129,9 +129,8 @@ make_plant_map <- function(dat) {
     ) |>
     addResetMapButton() |>
     addProviderTiles(providers$Esri.WorldImagery, group = "ESRI World Imagery") |> 
-    addProviderTiles(providers$Esri.WorldStreetMap, group = "ESRI Street Map") |> 
   addLayersControl(
-    baseGroups = c("Positron (default)", "ESRI World Imagery", "ESRI Street Map"),
+    baseGroups = c("ESRI Street Map (default)", "ESRI World Imagery"),
     options = layersControlOptions(collapsed = TRUE)
   )    
 }
